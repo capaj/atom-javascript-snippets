@@ -1,6 +1,6 @@
 ".source.js":
   "anonymous function":
-    "prefix": "afn"
+    "prefix": "f"
     "body": """
     function(${1:arguments}) {
     \t${0:// body...}
